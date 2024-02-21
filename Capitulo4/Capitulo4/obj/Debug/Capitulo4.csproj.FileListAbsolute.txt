@@ -1,0 +1,15 @@
+C:\Users\FreddyMH\source\repos\Capitulo4\Capitulo4\obj\Debug\Capitulo4.csproj.AssemblyReference.cache
+C:\Users\FreddyMH\source\repos\Capitulo4\Capitulo4\obj\Debug\Capitulo4.Form1.resources
+C:\Users\FreddyMH\source\repos\Capitulo4\Capitulo4\obj\Debug\Capitulo4.Properties.Resources.resources
+C:\Users\FreddyMH\source\repos\Capitulo4\Capitulo4\obj\Debug\Capitulo4.Tablas.resources
+C:\Users\FreddyMH\source\repos\Capitulo4\Capitulo4\obj\Debug\Capitulo4.csproj.GenerateResource.cache
+C:\Users\FreddyMH\source\repos\Capitulo4\Capitulo4\obj\Debug\Capitulo4.csproj.CoreCompileInputs.cache
+C:\Users\FreddyMH\source\repos\Capitulo4\Capitulo4\bin\Debug\Capitulo4.exe.config
+C:\Users\FreddyMH\source\repos\Capitulo4\Capitulo4\bin\Debug\Capitulo4.exe
+C:\Users\FreddyMH\source\repos\Capitulo4\Capitulo4\bin\Debug\Capitulo4.pdb
+C:\Users\FreddyMH\source\repos\Capitulo4\Capitulo4\obj\Debug\Capitulo4.exe
+C:\Users\FreddyMH\source\repos\Capitulo4\Capitulo4\obj\Debug\Capitulo4.pdb
+C:\Users\FreddyMH\source\repos\Capitulo4\Capitulo4\obj\Debug\Capitulo4.Potencia.resources
+C:\Users\FreddyMH\source\repos\Capitulo4\Capitulo4\obj\Debug\Capitulo4.Primos.resources
+C:\Users\FreddyMH\source\repos\Capitulo4\Capitulo4\obj\Debug\Capitulo4.Caldera.resources
+C:\Users\FreddyMH\source\repos\Capitulo4\Capitulo4\obj\Debug\Capitulo4.Edades.resources
